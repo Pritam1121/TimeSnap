@@ -11,7 +11,7 @@
  - 🌐 Works in Chrome, Edge, and other Chromium-based browsers
 
 ## 🚀 Live Link
- - ### <b><em><a href="https://timesnap-real-time-clock.netlify.app/">TimeSnap</a></em></b>
+  ### <b><em><a href="https://timesnap-real-time-clock.netlify.app/">TimeSnap</a></em></b>
   
 ## 🛠️ Built With
  - HTML
@@ -24,7 +24,7 @@
  - One thought is shown per day based on the current date.
   
 ## 👨‍💻 Author
- - ### <a href="https://github.com/Pritam1121/">GitHub</a> | <a href="https://in.linkedin.com/in/pritam-suryawanshi">LinkedIn</a>
+  ### <a href="https://github.com/Pritam1121/">GitHub</a> | <a href="https://in.linkedin.com/in/pritam-suryawanshi">LinkedIn</a>
 
    
     
