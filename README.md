@@ -11,7 +11,7 @@
  - 🌐 Works in Chrome, Edge, and other Chromium-based browsers
 
 ## 🚀 Live Link
- - ### <b><em><a href="">Pending....</a></em></b>
+ - ### <b><em><a href="https://timesnap-real-time-clock.netlify.app/">TimeSnap</a></em></b>
   
 ## 🛠️ Built With
  - HTML
